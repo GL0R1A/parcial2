@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "segundo parcial progra", "segundo parcial progra\segundo parcial progra.csproj", "{3EC61222-2E2B-488B-B831-91DE18EDA154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC61222-2E2B-488B-B831-91DE18EDA154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC61222-2E2B-488B-B831-91DE18EDA154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC61222-2E2B-488B-B831-91DE18EDA154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC61222-2E2B-488B-B831-91DE18EDA154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {013C78E4-8A12-4FA6-B791-8CC5E11D7D9A}
+	EndGlobalSection
+EndGlobal

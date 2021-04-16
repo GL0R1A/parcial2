@@ -1,0 +1,20 @@
+C:\Users\mita\Desktop\segundo parcial progra\segundo parcial progra\bin\Debug\segundo parcial progra.exe.config
+C:\Users\mita\Desktop\segundo parcial progra\segundo parcial progra\bin\Debug\segundo parcial progra.exe
+C:\Users\mita\Desktop\segundo parcial progra\segundo parcial progra\bin\Debug\segundo parcial progra.pdb
+C:\Users\mita\Desktop\segundo parcial progra\segundo parcial progra\obj\Debug\segundo parcial progra.csprojAssemblyReference.cache
+C:\Users\mita\Desktop\segundo parcial progra\segundo parcial progra\obj\Debug\segundo_parcial_progra.Form1.resources
+C:\Users\mita\Desktop\segundo parcial progra\segundo parcial progra\obj\Debug\segundo_parcial_progra.Properties.Resources.resources
+C:\Users\mita\Desktop\segundo parcial progra\segundo parcial progra\obj\Debug\segundo parcial progra.csproj.GenerateResource.cache
+C:\Users\mita\Desktop\segundo parcial progra\segundo parcial progra\obj\Debug\segundo parcial progra.csproj.CoreCompileInputs.cache
+C:\Users\mita\Desktop\segundo parcial progra\segundo parcial progra\obj\Debug\segundo parcial progra.exe
+C:\Users\mita\Desktop\segundo parcial progra\segundo parcial progra\obj\Debug\segundo parcial progra.pdb
+C:\Users\mita\Desktop\gloria\segundo parcial progra\segundo parcial progra\bin\Debug\segundo parcial progra.exe.config
+C:\Users\mita\Desktop\gloria\segundo parcial progra\segundo parcial progra\bin\Debug\segundo parcial progra.exe
+C:\Users\mita\Desktop\gloria\segundo parcial progra\segundo parcial progra\bin\Debug\segundo parcial progra.pdb
+C:\Users\mita\Desktop\gloria\segundo parcial progra\segundo parcial progra\obj\Debug\segundo parcial progra.csprojAssemblyReference.cache
+C:\Users\mita\Desktop\gloria\segundo parcial progra\segundo parcial progra\obj\Debug\segundo_parcial_progra.Form1.resources
+C:\Users\mita\Desktop\gloria\segundo parcial progra\segundo parcial progra\obj\Debug\segundo_parcial_progra.Properties.Resources.resources
+C:\Users\mita\Desktop\gloria\segundo parcial progra\segundo parcial progra\obj\Debug\segundo parcial progra.csproj.GenerateResource.cache
+C:\Users\mita\Desktop\gloria\segundo parcial progra\segundo parcial progra\obj\Debug\segundo parcial progra.csproj.CoreCompileInputs.cache
+C:\Users\mita\Desktop\gloria\segundo parcial progra\segundo parcial progra\obj\Debug\segundo parcial progra.exe
+C:\Users\mita\Desktop\gloria\segundo parcial progra\segundo parcial progra\obj\Debug\segundo parcial progra.pdb
